@@ -1,2 +1,3 @@
-2023/10/05-23:44:44.018 a2b0 Creating DB D:\ZtrolixStudios\Ztrolix Studio\Build\login\zsl.exe.WebView2\EBWebView\Default\shared_proto_db since it was missing.
-2023/10/05-23:44:44.026 a2b0 Reusing MANIFEST D:\ZtrolixStudios\Ztrolix Studio\Build\login\zsl.exe.WebView2\EBWebView\Default\shared_proto_db/MANIFEST-000001
+2023/10/21-15:31:14.441 4a88 Reusing MANIFEST D:\ZtrolixStudios\ZLIB-2\ZLib\dlls\login\zsl.exe.WebView2\EBWebView\Default\shared_proto_db/MANIFEST-000001
+2023/10/21-15:31:14.443 4a88 Recovering log #3
+2023/10/21-15:31:14.443 4a88 Reusing old log D:\ZtrolixStudios\ZLIB-2\ZLib\dlls\login\zsl.exe.WebView2\EBWebView\Default\shared_proto_db/000003.log 
